@@ -204,7 +204,7 @@ No Dockerfile changes were made as part of this analysis.
 
 ## 11. Evidence
 
-Relevant screenshots should be stored in:
+Relevant screenshots are stored in:
 
 `docs/project-documentation/images/docker/`
 
@@ -221,7 +221,7 @@ Screenshots must show genuine repository or terminal output.
 
 ## 12. Jira Reference
 
-**SPC-30 – Inspect and understand existing Dockerfiles**
+**SPC-30 : Inspect and understand existing Dockerfiles**
 
 Acceptance criteria:
 
