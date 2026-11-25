@@ -1,0 +1,41 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Jenv
+.java-version
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# IntelliJ IDEA
+.idea
+*.iml
+
+# Visual Studio Code
+.factorypath
+
+# Branch switching
+generated/
+
+**/.DS_Store
+
+# Local MCP configuration
+.mcp.json
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Local credentials and secret files
+credentials/
+secrets/
+*.pem
+*.key
+
+# Claude Code local settings
+.claude/settings.local.json
+.claude/settings.local.*
